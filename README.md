@@ -1,0 +1,18 @@
+# Payroll-Management-System
+
+ADMIN's LOGIN 
+
+Username : admin
+Password : admin
+
+DON'T FORGET TO CREATE A DATABASE NAMING "payroll" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>Database File is inside database folder "database"
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+
+
+#THANK YOU FOR DOWNLOADING
